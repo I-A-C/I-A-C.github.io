@@ -1,5 +1,5 @@
 # ExodusRedux Repository addon
-## Current Version: 1.3
+## Current Version: 0.0.8
 
 Instructions for adding this repo:
 
